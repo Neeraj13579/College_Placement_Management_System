@@ -122,7 +122,7 @@ cd college-placement-management-system
    ```
    
 ## Contributors
-- **Member 1**: [Moin MN](https://www.linkedin.com/in/moinnaik/)
-- **Member 2**: Rafat Muskan Shaikh
-- **Member 3**: Saquib Patel
-- **Member 4**: Neeraj Kumar
+- **Member 1**: [Neeraj Kumar](https://www.linkedin.com/in/neerajkumar45/)
+- **Member 2**: Moin MN
+- **Member 3**: Rafat Muskan Shaikh
+- **Member 4**: Saquib Patel
